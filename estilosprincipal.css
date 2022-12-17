@@ -1,0 +1,59 @@
+h1 {
+    color: rgb(75, 100, 121);
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 {
+    font-style: oblique;
+}
+
+h1 {
+    font-size: 300%;
+}
+
+h2 {
+    color: rgb(108, 178, 236);
+}
+
+h2 {
+    text-align: center;
+}
+
+h2 {
+    font-size: xx-large;
+}
+
+h3 {
+    color: rgb(108, 178, 236);
+}
+
+h3 {
+    text-align: center;
+}
+
+h3 {
+    font-size: xx-large;
+}
+
+p {
+    font-size: larger;
+}
+
+li {
+    text-align: center;
+}
+
+li {
+    font-size: large;
+}
+
+body {
+    background-color: #e2f7ec;
+}
+
+div {
+    text-align: center;
+}
